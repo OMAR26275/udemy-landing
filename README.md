@@ -1,2 +1,2 @@
-# udemy-landing
+# udemy-clone
 Udemy landing page (React)
